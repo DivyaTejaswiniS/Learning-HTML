@@ -6,4 +6,4 @@ Sample HTML programs created by me while learning HTML
 
 * [Introduction](https://divyatejaswinis.github.io/Learning-HTML/Introduction/index.html) - Created a simple intro page.
 
-* [Sample](https://divyatejaswinis.github.io/Learning-HTML/Sample/Resumetemp.html) - Created a simple resume template page.
+* [Sample](https://divyatejaswinis.github.io/Learning-HTML/sample/Resumetemp.html) - Created a simple resume template page.
